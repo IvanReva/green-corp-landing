@@ -45,8 +45,7 @@ button {
     height: 100px;
     animation-name: rotation ;
     animation-duration: 10s;
-    
-    
+    animation-iteration-count: infinite;
     position: absolute;
   }
   .about{
